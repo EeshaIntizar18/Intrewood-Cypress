@@ -1,0 +1,19 @@
+{
+  "name": "interwood-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-dark": "^1.8.3",
+    "cypress-junit-reporter": "^1.3.1",
+    "cypress-mochawesome-reporter": "^3.1.0",
+    "cypress-teamcity-reporter": "^3.0.0"
+  }
+}
